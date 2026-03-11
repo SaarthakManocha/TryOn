@@ -1,17 +1,5 @@
 # TryOn — AI-Powered Virtual Try-On App
 
-<p align="center">
-  <strong>Try any outfit on yourself, virtually — powered by AI.</strong>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
-
 > [!IMPORTANT]
 > **This project is under active development.**
 > - The **core application logic is fully built and functional**, including the complete Flutter frontend (auth, onboarding, try-on flow, wardrobe, shopping, profile) and the entire Python backend pipeline.
