@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "60913920554",
+    "project_id": "tryon-3588b",
+    "storage_bucket": "tryon-3588b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60913920554:android:2cdcb967756f17dc8eb153",
+        "android_client_info": {
+          "package_name": "com.tryon.tryon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60913920554-acrolv9j45j94j0do2uh84g2rii8n7ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tryon.tryon",
+            "certificate_hash": "feca405d414e10b6b778e80336d78098ac1c496a"
+          }
+        },
+        {
+          "client_id": "60913920554-muh5ejerjs8opbegktm2l3uvi2b49hfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACLnlW9Yh-RJFYy9spFx2lFVUlYRRkgZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60913920554-muh5ejerjs8opbegktm2l3uvi2b49hfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
