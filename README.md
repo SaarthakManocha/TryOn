@@ -40,7 +40,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Status | Description |
 |---|---|---|
@@ -57,7 +57,7 @@
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
@@ -77,7 +77,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend — Flutter
 
@@ -105,7 +105,7 @@
 
 ---
 
-## 📱 App Screens
+##  App Screens
 
 The app includes **13 fully implemented screens**:
 
@@ -115,7 +115,7 @@ The app includes **13 fully implemented screens**:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -162,7 +162,7 @@ flutter run
 
 ---
 
-## ⚙️ Environment Variables
+## Environment Variables
 
 Create a `.env` file in the `backend/` directory (see `.env.example`):
 
@@ -176,19 +176,19 @@ Create a `.env` file in the `backend/` directory (see `.env.example`):
 
 ---
 
-## 🔮 Roadmap
+## Roadmap
 
-- [ ] 🎨 UI/UX design overhaul — implement the full design system from [`DESIGN_BRIEF.md`](./DESIGN_BRIEF.md)
-- [ ] 🤖 Activate AI try-on with fal.ai IDM-VTON integration
-- [ ] 📱 AR mode for real-time try-on with phone camera
-- [ ] 📏 Size recommendations based on body measurements
-- [ ] 🤝 Social sharing & outfit voting
-- [ ] 🛒 Direct e-commerce platform integrations
-- [ ] 👔 Multi-garment styling (full outfit creation)
+- [ ] UI/UX design overhaul — implement the full design system from [`DESIGN_BRIEF.md`](./DESIGN_BRIEF.md)
+- [ ] Activate AI try-on with fal.ai IDM-VTON integration
+- [ ] AR mode for real-time try-on with phone camera
+- [ ] Size recommendations based on body measurements
+- [ ] Social sharing & outfit voting
+- [ ] Direct e-commerce platform integrations
+- [ ] Multi-garment styling (full outfit creation)
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 TryOn/
@@ -221,14 +221,10 @@ TryOn/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
-**Saarthak Manocha** — Sole developer
+**Saarthak Manocha** — Developer
 
-Built as a hackathon project, now being developed further as a portfolio project.
+Initially built as a hackathon project, now being developed further as a personal project.
 
 ---
-
-## 📄 License
-
-This project is for educational and portfolio purposes.
