@@ -1,4 +1,4 @@
-# 👗 TryOn — AI-Powered Virtual Try-On App
+# TryOn — AI-Powered Virtual Try-On App
 
 <p align="center">
   <strong>Try any outfit on yourself, virtually — powered by AI.</strong>
@@ -13,22 +13,22 @@
 </p>
 
 > [!IMPORTANT]
-> **🚧 This project is under active development.**
+> **This project is under active development.**
 > - The **core application logic is fully built and functional**, including the complete Flutter frontend (auth, onboarding, try-on flow, wardrobe, shopping, profile) and the entire Python backend pipeline.
 > - **UI/UX design polish** is pending — the current interface uses functional placeholder styling. A full design system (colors, typography, components) has been specced out and is awaiting implementation. See [`DESIGN_BRIEF.md`](./DESIGN_BRIEF.md) for the planned design system.
 > - **AI try-on integration (fal.ai IDM-VTON)** is currently disabled as it requires a paid API subscription. The backend pipeline is fully wired — once an API key with credits is provided, the virtual try-on generation will work end-to-end.
 
 ---
 
-## 📖 What is TryOn?
+## What is TryOn?
 
 **TryOn** is a mobile application that lets you virtually try on any piece of clothing using AI-powered image processing. Upload a photo of a garment, take a selfie, and see how the outfit would look on you — without ever stepping into a fitting room.
 
 ### The Problem
 
-- 🔁 **30-40% of online fashion purchases** are returned due to fit/appearance uncertainty
-- ⏱️ Hours wasted trying clothes in physical stores
-- 🌍 Environmental impact from shipping returns back and forth
+- **30-40% of online fashion purchases** are returned due to fit/appearance uncertainty
+-  Hours wasted trying clothes in physical stores
+-  Environmental impact from shipping returns back and forth
 
 ### The Solution
 
