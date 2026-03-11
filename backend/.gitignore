@@ -41,6 +41,11 @@ uploads/
 *.jpg
 *.jpeg
 
+# But DO track asset images (base body templates are required)
+!assets/
+!assets/**
+!assets/**/*.png
+
 # Models (downloaded at runtime)
 models/
 
